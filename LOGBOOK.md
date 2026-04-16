@@ -13,15 +13,15 @@ The English repository existed with only a minimal `README.md` and the project l
 - `CHANGELOG.md` was created to track the English edition
 - `LOGBOOK.md` was created to record editorial progress and decisions
 - an initial `tutorial` structure was created
-- core introductory chapters were added in English
+- the English chapter set was expanded to cover fundamentals, trust services, support material, governance, evidence, interoperability, Spain-specific context, and company profile
 - the repository was linked back to the Spanish edition for cross-navigation
 
 ### Decisions Taken
 
 - the English repository will be maintained as an independent editorial edition
 - language editions may evolve at different speeds and do not need strict line-by-line synchronization
-- the Spanish repository remains the more mature source edition for now
-- English content will grow progressively from the most foundational topics outward
+- the Spanish repository remains the most mature source edition for now
+- the English repository should aim for broad structural parity while accepting editorial differences
 
 ### Open Questions
 
@@ -31,7 +31,7 @@ The English repository existed with only a minimal `README.md` and the project l
 
 ### Suggested Next Steps
 
-1. expand the English tutorial with more trust service chapters
-2. add visual diagrams to the English edition
-3. decide how to handle Spain-specific chapters in English
-4. add a navigation block in the Spanish repository pointing back to this English edition
+1. review the English edition for stylistic consistency and terminology depth
+2. expand diagrams where visual reinforcement would add value
+3. decide whether some Spain-specific sections should later become broader country modules
+4. continue aligning major future additions between Spanish and English repositories
