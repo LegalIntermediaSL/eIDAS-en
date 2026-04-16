@@ -105,11 +105,6 @@ The idea is to keep the content understandable for legal, technical, and busines
 
 - [Legal Intermedia S.L.](./tutorial/legal-intermedia/01-legal-intermedia-sl.md)
 
-### 9. Spain
-
-- [Spain: National Context](./tutorial/50-spain-national-context.md)
-- [Spain: Supervision, TSL, and Providers](./tutorial/51-spain-supervision-tsl.md)
-
 ## Audience
 
 This material may be useful for:
